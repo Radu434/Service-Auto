@@ -1,0 +1,435 @@
+# depslib dependency file v1.0
+1672235555 source:c:\info\facultate\c\proiect\serviceauto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<conio.h>
+	<windows.h>
+
+1672333232 source:c:\info\facultate\c\proiect\serviceauto\menu.c
+	"menu.h"
+
+1672320073 c:\info\facultate\c\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673472621 source:c:\users\name\desktop\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673545133 source:c:\users\name\desktop\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673545170 source:c:\users\name\desktop\proiect\serviceauto\database.c
+	"database.h"
+
+1673545001 c:\users\name\desktop\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673544269 source:c:\users\name\desktop\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673544895 c:\users\name\desktop\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673472621 source:c:\users\name\desktop\proiectv1.8\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv1.8\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673694253 source:c:\users\name\desktop\proiectv1.8\proiect\serviceauto\database.c
+	"database.h"
+
+1673693127 c:\users\name\desktop\proiectv1.8\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673596755 source:c:\users\name\desktop\proiectv1.8\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv1.8\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673704013 source:c:\users\name\desktop\proiectv1.8\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673711070 source:c:\users\name\desktop\proiectv1.9\proiect\serviceauto\database.c
+	"database.h"
+
+1673710897 c:\users\name\desktop\proiectv1.9\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673472621 source:c:\users\name\desktop\proiectv1.9\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv1.9\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673709531 source:c:\users\name\desktop\proiectv1.9\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv1.9\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673710933 source:c:\users\name\desktop\proiectv1.9\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673472621 source:c:\users\name\desktop\proiectv2.0\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv2.0\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673709531 source:c:\users\name\desktop\proiectv2.0\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.0\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673710897 c:\users\name\desktop\proiectv2.0\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673712404 source:c:\users\name\desktop\proiectv2.0\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673712638 source:c:\users\name\desktop\proiectv2.0\proiect\serviceauto\database.c
+	"database.h"
+
+1673714722 source:c:\users\name\desktop\proiectv2.1\proiect\serviceauto\database.c
+	"database.h"
+
+1673714718 c:\users\name\desktop\proiectv2.1\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673472621 source:c:\users\name\desktop\proiectv2.1\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv2.1\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673709531 source:c:\users\name\desktop\proiectv2.1\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.1\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673714713 source:c:\users\name\desktop\proiectv2.1\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673472621 source:c:\users\name\desktop\proiectv2.2\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv2.2\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673709531 source:c:\users\name\desktop\proiectv2.2\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.2\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673715633 c:\users\name\desktop\proiectv2.2\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673717251 source:c:\users\name\desktop\proiectv2.2\proiect\serviceauto\database.c
+	"database.h"
+
+1673717980 source:c:\users\name\desktop\proiectv2.2\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673472621 source:c:\users\name\desktop\proiectv2.4\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv2.4\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673729254 source:c:\users\name\desktop\proiectv2.4\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.4\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673729457 c:\users\name\desktop\proiectv2.4\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673722137 source:c:\users\name\desktop\proiectv2.4\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673729472 source:c:\users\name\desktop\proiectv2.4\proiect\serviceauto\database.c
+	"database.h"
+
+1673472621 source:c:\users\name\desktop\proiectv2.5\proiect\serviceauto\main.c
+	"menu.h"
+
+1673530733 c:\users\name\desktop\proiectv2.5\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673732931 source:c:\users\name\desktop\proiectv2.5\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.5\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673729457 c:\users\name\desktop\proiectv2.5\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673731777 source:c:\users\name\desktop\proiectv2.5\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673731879 source:c:\users\name\desktop\proiectv2.5\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+
+1673733988 source:c:\users\name\desktop\proiectv2.6\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+
+1673733206 c:\users\name\desktop\proiectv2.6\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673530733 c:\users\name\desktop\proiectv2.6\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673472621 source:c:\users\name\desktop\proiectv2.6\proiect\serviceauto\main.c
+	"menu.h"
+
+1673733725 source:c:\users\name\desktop\proiectv2.6\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+
+1673544895 c:\users\name\desktop\proiectv2.6\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673734568 source:c:\users\name\desktop\proiectv2.6\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673738715 source:c:\users\name\desktop\proiectv2.7\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+
+1673738719 c:\users\name\desktop\proiectv2.7\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673530733 c:\users\name\desktop\proiectv2.7\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673472621 source:c:\users\name\desktop\proiectv2.7\proiect\serviceauto\main.c
+	"menu.h"
+
+1673736197 source:c:\users\name\desktop\proiectv2.7\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673544895 c:\users\name\desktop\proiectv2.7\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673738407 source:c:\users\name\desktop\proiectv2.7\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+	"finances.h"
+
+1673738418 c:\users\name\desktop\proiectv2.7\proiect\serviceauto\finances.h
+
+1673739084 source:c:\users\name\desktop\proiectv2.7\proiect\serviceauto\finances.c
+	"finances.h"
+	"menu.h"
+	"database.h"
+	"cars.h"
+
+1673781542 source:c:\users\name\desktop\proiectv2.8\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673544895 c:\users\name\desktop\proiectv2.8\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673738719 c:\users\name\desktop\proiectv2.8\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673530733 c:\users\name\desktop\proiectv2.8\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673780786 source:c:\users\name\desktop\proiectv2.8\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+
+1673739817 source:c:\users\name\desktop\proiectv2.8\proiect\serviceauto\finances.c
+	"finances.h"
+	"menu.h"
+	"database.h"
+	"cars.h"
+
+1673738418 c:\users\name\desktop\proiectv2.8\proiect\serviceauto\finances.h
+
+1673472621 source:c:\users\name\desktop\proiectv2.8\proiect\serviceauto\main.c
+	"menu.h"
+
+1673778638 source:c:\users\name\desktop\proiectv2.8\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+	"finances.h"
+
+1673780786 source:c:\users\name\desktop\proiectv3.0\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+
+1673738719 c:\users\name\desktop\proiectv3.0\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673530733 c:\users\name\desktop\proiectv3.0\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673739817 source:c:\users\name\desktop\proiectv3.0\proiect\serviceauto\finances.c
+	"finances.h"
+	"menu.h"
+	"database.h"
+	"cars.h"
+
+1673738418 c:\users\name\desktop\proiectv3.0\proiect\serviceauto\finances.h
+
+1673544895 c:\users\name\desktop\proiectv3.0\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673806446 source:c:\users\name\desktop\proiectv3.0\proiect\serviceauto\main.c
+	"menu.h"
+
+1673778638 source:c:\users\name\desktop\proiectv3.0\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+	"finances.h"
+
+1673782274 source:c:\users\name\desktop\proiectv3.0\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673782274 source:c:\users\name\desktop\proiectv3.1\proiect\serviceauto\cars.c
+	"cars.h"
+	"database.h"
+	"menu.h"
+
+1673544895 c:\users\name\desktop\proiectv3.1\proiect\serviceauto\cars.h
+	<stdio.h>
+	<stdlib.h>
+
+1673738719 c:\users\name\desktop\proiectv3.1\proiect\serviceauto\database.h
+	<stdio.h>
+	<stdlib.h>
+
+1673530733 c:\users\name\desktop\proiectv3.1\proiect\serviceauto\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1673739817 source:c:\users\name\desktop\proiectv3.1\proiect\serviceauto\finances.c
+	"finances.h"
+	"menu.h"
+	"database.h"
+	"cars.h"
+
+1673738418 c:\users\name\desktop\proiectv3.1\proiect\serviceauto\finances.h
+
+1673806446 source:c:\users\name\desktop\proiectv3.1\proiect\serviceauto\main.c
+	"menu.h"
+
+1673778638 source:c:\users\name\desktop\proiectv3.1\proiect\serviceauto\menu.c
+	"menu.h"
+	"cars.h"
+	"database.h"
+	"finances.h"
+
+1673875265 source:c:\users\name\desktop\proiectv3.1\proiect\serviceauto\database.c
+	"database.h"
+	"menu.h"
+

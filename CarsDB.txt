@@ -1,0 +1,91 @@
+9
+CJ99BOS
+Ferrari
+Blue
+Marian Marinescu
+Broken Carburator
+Pending
+2013
+213
+170
+BN55SDS
+BMW X5
+Black
+Adrian Ionescu
+Broken Turbo
+Fixed
+2018
+1600
+700
+HD64FDG
+Volkswage Beetle
+Yellow
+Stefan Hosu
+Broken Carburator
+Pending
+1979
+400
+300
+BN66ACD
+Opel Insignia
+Orange
+Ion Ivan
+Broken radiator and headlight
+Fixed
+2015
+2300
+1106
+CJ85ABC
+Dacia Logan
+White
+Vasile Preda
+GPL instalation
+fixed
+2009
+1400
+550
+CJ43SDS
+Tesla Model X
+White
+Ilie Mestecanescu
+Charging port broken
+pending
+2020
+2000
+1300
+CJ21SRF
+Audi A6
+Red
+Eduard Serbu
+Broken EGR
+pending
+2011
+1600
+674
+IF74ADS
+Toyota Yaris
+Grey
+Bogdan Pop
+Cracked windshield
+pending
+2013
+1000
+300
+CJ37ARG
+Bentley Continental
+Black
+Iosif Titaru
+Bad valve timing
+pending
+2016
+500
+700
+CJ03KOD
+Audi RS6
+Red
+Titi Aur
+Broken front suspension
+Pending
+2017
+6000
+3000
